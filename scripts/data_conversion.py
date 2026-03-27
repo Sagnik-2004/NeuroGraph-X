@@ -1,3 +1,8 @@
+'''
+    script to convert the raw dcm files onto nii.gz format
+    @author: Silajeet
+'''
+
 import os
 import pandas as pd
 import subprocess
