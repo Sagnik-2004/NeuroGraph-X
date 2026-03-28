@@ -33,7 +33,7 @@ for label in root.findall(".//label"):
 print("Starting batch processing...")
 
 for patient_file in INPUT_DIR.rglob("*.nii.gz"): # find all files with the ending extension .nii.gz
-    match = re.search(r'\d{3}_S_\d{4}', patient_file.name) # regex to get patient id
+    match = re.search(r'\d{3}_S_\d{4}_I\d+', patient_file.name) # regex to get patient id
     if not match:
         continue
     patient_id = match.group(0) # get the patient id
