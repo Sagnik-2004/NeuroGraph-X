@@ -122,6 +122,14 @@ Contributions, suggestions, and discussions are welcome.
 
 ## 👤 Author
 
+**Sagnik Pal**
+
+Computer Science Graduate
+M.Sc. Computer Science Student at RKMVERI
+
+Github: https://github.com/Sagnik-2004
+
+
 **Silajeet Banerjee**
 
 Computer Science Graduate 
@@ -129,11 +137,6 @@ M.Sc. Computer Science Student at RKMVERI
 
 GitHub: https://github.com/Silajeet0
 
-**Sagnik Pal**
 
-Computer Science Graduate
-M.Sc. Computer Science Student at RKMVERI
-
-Github: https://github.com/Sagnik-2004
 
 
